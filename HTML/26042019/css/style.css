@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, "Times New Roman", sans-serif;
+    font-family: 16px;
+    background-image: -webkit-gradient(linear, 0 0, 100% 100%, color-stop(.25, #555), color-stop(.25, transparent), to(transparent)),
+-webkit-gradient(linear, 0 100%, 100% 0, color-stop(.25, #555), color-stop(.25, transparent), to(transparent)),
+-webkit-gradient(linear, 0 0, 100% 100%, color-stop(.75, transparent), color-stop(.75, #555)),
+-webkit-gradient(linear, 0 100%, 100% 0, color-stop(.75, transparent), color-stop(.75, #555));
+background-image: -webkit-linear-gradient(45deg, #555 25%, transparent 25%, transparent),
+-webkit-linear-gradient(-45deg, #555 25%, transparent 25%, transparent),
+-webkit-linear-gradient(45deg, transparent 75%, #555 75%),
+-webkit-linear-gradient(-45deg, transparent 75%, #555 75%);
+background-image: -moz-linear-gradient(45deg, #555 25%, transparent 25%, transparent),
+-moz-linear-gradient(-45deg, #555 25%, transparent 25%, transparent),
+-moz-linear-gradient(45deg, transparent 75%, #555 75%),
+-moz-linear-gradient(-45deg, transparent 75%, #555 75%);
+    
+}
+ol, ul {
+    list-style: none;
+}
+#wrap {
+    background-color: #ffffff
+    white:960px;
+    border: 1px solid #000;
+    margin: 200px;
+}
+#innerwrap{
+    background-image: url(../inner-wrap_bg.png)
+}
+#sidebar {
+    background-image: url(../nen\ 2.png);
+    
+}
+#mainnav {
+    background-color: rgb(177, 55, 55);
+    height: 35px;
+}
+#mainnav li {
+    float: left;
+    width: 120px;
+    height: 35px;
+    background-color: rgb(145, 153, 158);
+    text-align: center;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    line-height: 35px;
+}
+
+
+
+
+background-color: rgb(162, 198, 233)
+
+
+            
+
+
